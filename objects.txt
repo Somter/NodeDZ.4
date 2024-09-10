@@ -1,0 +1,9 @@
+{
+  "name": "Pavel",
+  "age": 40,
+  "subject": "Programming"
+}{
+  "name": "Elon",
+  "age": 52,
+  "subject": "Programming"
+}

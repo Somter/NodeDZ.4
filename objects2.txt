@@ -1,0 +1,5 @@
+{
+  "name": "Maksin",
+  "age": 20,
+  "subject": "student"
+}
